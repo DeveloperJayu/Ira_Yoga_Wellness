@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304971245169",
+    "project_id": "ira-yoga-wellness-fc4ae",
+    "storage_bucket": "ira-yoga-wellness-fc4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304971245169:android:6b4b51ece3a679730c5dd0",
+        "android_client_info": {
+          "package_name": "com.jayu.irayogawellness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304971245169-3di5ce0dlqihgap3smh6bpalst7o2pi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQC99d1EAcPyxrv5v9cM5AGaU7KlFdaJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304971245169-3di5ce0dlqihgap3smh6bpalst7o2pi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
